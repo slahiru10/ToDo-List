@@ -1,0 +1,17 @@
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\bin\Debug\net8.0\DotNetProject.exe
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\bin\Debug\net8.0\DotNetProject.deps.json
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\bin\Debug\net8.0\DotNetProject.runtimeconfig.json
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\bin\Debug\net8.0\DotNetProject.dll
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\bin\Debug\net8.0\DotNetProject.pdb
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\obj\Debug\net8.0\DotNetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\obj\Debug\net8.0\DotNetProject.AssemblyInfoInputs.cache
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\obj\Debug\net8.0\DotNetProject.AssemblyInfo.cs
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\obj\Debug\net8.0\DotNetProject.csproj.CoreCompileInputs.cache
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\obj\Debug\net8.0\DotNetProject.dll
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\obj\Debug\net8.0\refint\DotNetProject.dll
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\obj\Debug\net8.0\DotNetProject.pdb
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\obj\Debug\net8.0\DotNetProject.genruntimeconfig.cache
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\obj\Debug\net8.0\ref\DotNetProject.dll
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\obj\Debug\net8.0\DotNetProject.csproj.AssemblyReference.cache
+C:\Users\suraweeral\OneDrive\Documents\DotNetProject\obj\Debug\net8.0\DotNetPr.61A7B9DF.Up2Date
